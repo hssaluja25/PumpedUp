@@ -18,7 +18,7 @@
           <!-- The icon on the top -->
           <a class="block text-blue-600" href="/">
             <span class="sr-only">Home</span>
-            <img src="../../favicon.png" width="50" height="50" />
+            <img src="@/assets/logo.png" width="50" height="50" />
           </a>
 
           <h1 class="mt-6 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
